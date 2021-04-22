@@ -1,2 +1,2 @@
 hello git
-made some changes
+made some changes to demonstrate through vs code
