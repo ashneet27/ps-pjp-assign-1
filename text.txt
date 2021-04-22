@@ -1,0 +1,2 @@
+hello git
+made some changes to demonstrate through vs code
